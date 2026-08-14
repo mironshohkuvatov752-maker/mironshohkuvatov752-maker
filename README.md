@@ -1,33 +1,45 @@
-<h1 align="center">Hi 👋, I'm Quvatov Mironshoh</h1>
-<h3 align="center">Men O'zbekistonlik backend Dasturchiman</h3>
+<h1 align="center">Salom, Men Mironshoh! 👋</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mironshohkuvatov752-maker&label=Profile%20views&color=0e75b6&style=flat" alt="mironshohkuvatov752-maker" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mironshohkuvatov752-maker" alt="mironshohkuvatov752-maker" /></a> </p>
-
-- 🔭 I’m currently working on **Django va Web loyihalar**
-
-- 🌱 I’m currently learning **Advanced Django, REST API va PostgreSQL**
-
-- 👯 I’m looking to collaborate on **Open-source Python va Django loyihalari**
-
-- 🤝 I’m looking for help with **Frontend (React / Vue) va Backend integratsiyasi**
-
-- 👨‍💻 All of my projects are available at [https://github.com/mironshohkuvatov752-maker?tab=repositories](https://github.com/mironshohkuvatov752-maker?tab=repositories)
-
-- 💬 Ask me about **Python, Django, Web dasturlash va HTML/CSS**
-
-- 📫 How to reach me **mironshohkuvatov752@gmail.com**
-
-- ⚡ Fun fact **Koddagi xatolikni (bug) topish uchun ba'zan soatlab kofe ichib o'tirishim mumkin! ☕**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E90FA&center=true&vcenter=true&width=500&lines=Python+%2F+Django+Dasturchi;Backend+Developer;Web+Loyihalar+Yaratuvchisi" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mironshohkuvatov752-maker&show_icons=true&locale=en&layout=compact" alt="mironshohkuvatov752-maker" /></p>
+### 🚀 Men haqimda (Work)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mironshohkuvatov752-maker&show_icons=true&locale=en" alt="mironshohkuvatov752-maker" /></p>
+* 🔭 **Hozirda ishlayapman:** Django va Web loyihalar ustida
+* 👯 **Hamkorlik qilmoqchiman:** Open-source Python/Django proyektlarida
+* 🤝 **Yordam bera olaman:** Python backend va interaktiv web sahifalar yaratishda
+* 🌱 **O'rganyapman:** Advanced Django, REST API va PostgreSQL
+* 💬 **Mendan so'rashingiz mumkin:** Python, Django, HTML/CSS va Git bo'yicha
+* 📫 **Aloqa uchun:** [mironshohkuvatov752@gmail.com](mailto:mironshohkuvatov752@gmail.com)
+
+---
+
+### 🛠 Texnologiyalarim (Skills)
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+---
+
+### 📊 GitHub Statistikam
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mironshohkuvatov752-maker&show_icons=true&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mironshohkuvatov752-maker&layout=compact&theme=tokyonight" height="150" />
+</p>
+
+---
+
+### 🐍 My Contributions Snake (Qimirlaydigan Iloncha)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mironshohkuvatov752-maker/mironshohkuvatov752-maker/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
