@@ -32,9 +32,10 @@
 ### 📊 GitHub Statistikam
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mironshohkuvatov752-maker&show_icons=true&theme=tokyonight" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mironshohkuvatov752-maker&layout=compact&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mironshohkuvatov752-maker&show_icons=true&theme=tokyonight&count_private=true" alt="Statistika" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mironshohkuvatov752-maker&layout=compact&theme=tokyonight" alt="Tillar" height="160" />
 </p>
+
 
 ---
 
