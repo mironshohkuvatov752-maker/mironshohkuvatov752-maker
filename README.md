@@ -32,8 +32,7 @@
 ### 📊 GitHub Statistikam
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mironshohkuvatov752-maker&show_icons=true&theme=tokyonight&count_private=true" alt="Statistika" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mironshohkuvatov752-maker&layout=compact&theme=tokyonight" alt="Tillar" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mironshohkuvatov752-maker&theme=tokyonight" alt="GitHub Streak" height="160" />
 </p>
 
 
