@@ -38,8 +38,6 @@
 
 ---
 
-### 🐍 My Contributions Snake (Qimirlaydigan Iloncha)
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mironshohkuvatov752-maker/mironshohkuvatov752-maker/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://github.com/mironshohkuvatov752-maker/mironshohkuvatov752-maker/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
