@@ -29,15 +29,6 @@
 
 ---
 
-### 📊 GitHub Statistikam
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mironshohkuvatov752-maker&theme=tokyonight" alt="GitHub Streak" height="160" />
-</p>
-
-
----
-
 <p align="center">
   <img src="https://github.com/mironshohkuvatov752-maker/mironshohkuvatov752-maker/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
