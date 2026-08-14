@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Quvatov Mironshoh</h1>
-<h3 align="center">Men backend Dasturchiman</h3>
+<h3 align="center">Men O'zbekistonlik backend Dasturchiman</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mironshohkuvatov752-maker&label=Profile%20views&color=0e75b6&style=flat" alt="mironshohkuvatov752-maker" /> </p>
 
